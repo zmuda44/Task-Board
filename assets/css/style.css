@@ -1,0 +1,32 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+  }
+  
+  .swim-lanes {
+    min-height: 60vh;
+  }
+  
+  .task-card {
+    margin: 0 auto;
+  }
+  
+  .task-card:hover {
+    cursor: grab;
+  }
+
+  /* End given css */
+
+  /* Begin modal */
+
+  .modal-body .row1 {
+    display: flex;
+  }
+
+  .form-group {
+    margin: 10px;
+  }
+
+  #task-description {
+    width: 100%;
+  }
